@@ -1,0 +1,2 @@
+# stake.js
+WIP
